@@ -3,6 +3,16 @@
 # Description of Project
 In this module we built a website for presenting UFO Sighting data from a data file. The site is dynamic and data can be filtered by date of sighting by the user. 
 
+# Lesson Module Files 
+1) Index.html
+2) app.js
+
+# Challenge 11 Files
+1) index_c11.html
+2) app_c11.js
+
+The style.css and datafiles are common to both lessons. 
+
 # Resources
 * The application was written in JavaScript.
 * The website was structured using the Bootstrap style grid system.
